@@ -1,40 +1,10 @@
-+++
-# About/Biography widget.
-widget = "about"
-active = true
-date = "2016-04-20T00:00:00"
+# Welcome!
 
-# Order that this section will appear in.
-weight = 5
+I am Zachary Rodriguez, a PhD candidate studying evolutionary biology at Louisiana State University ([LSU](http://www.lsu.edu/)).  I’m a denizen of LSU’s [Museum of Natural Science](http://www.lsu.edu/mns/), working with Dr. Christopher Austin (curator of Reptiles and Amphibians) . I'm super excited for the research & outreach opportunities available at the museum and created this website to share my interests and experiences with you! Feel free to look around and shoot me an email if you have any questions.
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+# Research Interests
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+I am broadly interested in the natural history of reptiles and amphibians, phylogenetics, and genomics.  My dissertation research investigates the phylogenetic and genomic history of complex traits in lizards. I ultimately want to shed light on how genome evolution drives and maintains the biological diversity we see today. Check out my Research page to learn more!
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
-+++
 
-# Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
